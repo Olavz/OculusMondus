@@ -1,1 +1,9 @@
 c:\users\olavz\documents\visual studio 2013\Projects\OculusMundus\OculusMundus\bin\Debug\OculusMundus.exe.config
+c:\users\olavz\documents\visual studio 2013\Projects\OculusMundus\OculusMundus\bin\Debug\OculusMundus.exe
+c:\users\olavz\documents\visual studio 2013\Projects\OculusMundus\OculusMundus\bin\Debug\OculusMundus.pdb
+c:\users\olavz\documents\visual studio 2013\Projects\OculusMundus\OculusMundus\obj\Debug\OculusMundus.csprojResolveAssemblyReference.cache
+c:\users\olavz\documents\visual studio 2013\Projects\OculusMundus\OculusMundus\obj\Debug\OculusMundus.Form1.resources
+c:\users\olavz\documents\visual studio 2013\Projects\OculusMundus\OculusMundus\obj\Debug\OculusMundus.Properties.Resources.resources
+c:\users\olavz\documents\visual studio 2013\Projects\OculusMundus\OculusMundus\obj\Debug\OculusMundus.csproj.GenerateResource.Cache
+c:\users\olavz\documents\visual studio 2013\Projects\OculusMundus\OculusMundus\obj\Debug\OculusMundus.exe
+c:\users\olavz\documents\visual studio 2013\Projects\OculusMundus\OculusMundus\obj\Debug\OculusMundus.pdb

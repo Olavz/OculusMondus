@@ -1,0 +1,37 @@
+<html>
+<head>
+  <title>Sample</title>
+  <script type="text/javascript" src="https://www.google.com/jsapi"> </script>
+  <script type="text/javascript">
+    var ge;
+    google.load("earth", "1", {"other_params":"sensor=true_or_false"});
+
+    function init() {
+      google.earth.createInstance('map3d', initCB, failureCB);
+    }
+
+    function initCB(instance) {
+      ge = instance;
+      ge.getWindow().setVisibility(true);
+    }
+
+    function failureCB(errorCode) {
+    }
+
+    function helloWorld(test) {
+        window.external.Test('called from script code' + test);
+    }
+
+    google.setOnLoadCallback(init);
+  </script>
+  <style>
+      * {
+          margin: 0; padding: 0;
+      }
+  </style>
+
+</head>
+<body>
+  <div id="map3d" style="height: 100%; width: 100%;"></div>
+</body>
+</html>
